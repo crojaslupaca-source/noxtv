@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "nombre": "ATV Sur",
+    "categoria": "noticias",
+    "imagen": "https://i.imgur.com/LnyVa5H.png",
+    "url": "http://190.93.224.42/ATV-SUR/index.m3u8"
+  },
+  {
+    "id": 2,
+    "nombre": "Global TV",
+    "categoria": "Nacional",
+    "imagen": "http://190.93.224.42/GLOBAL/index.m3u8",
+    "url": "http://190.93.224.42/GLOBAL/index.m3u8"
+  }
+,
+
+  {
+    "id": 3,
+    "nombre": "Agro TV",
+    "categoria": "Nacional",
+    "imagen": "https://https://i.imgur.com/1uLGa3w.png",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8"
+
+  },
+  {
+    "id": 4,
+    "nombre": "La Tremenda TV ",
+    "categoria": "Nacional",
+    "imagen": "https://https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg",
+    "url": "https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8"
+  }
+]
